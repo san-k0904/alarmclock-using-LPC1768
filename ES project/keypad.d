@@ -1,0 +1,10 @@
+keypad.o: keypad.c
+keypad.o: C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h
+keypad.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+keypad.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+keypad.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+keypad.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+keypad.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+keypad.o: lcd_disp.h
+keypad.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+keypad.o: C:\Keil\ARM\ARMCC\bin\..\include\time.h
